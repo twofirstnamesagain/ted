@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Talk">ba4df25d1366f2005dc6b1422244b0f5</application>
+        <filter/>
+        <name>Talks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_ted.talk_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>dale.james</sys_created_by>
+        <sys_created_on>2017-05-04 23:39:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>324df25d1366f2005dc6b1422244b0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Talks</sys_name>
+        <sys_package display_value="TED" source="x_snc_ted">34fc3e1d1366f2005dc6b1422244b0d6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TED">34fc3e1d1366f2005dc6b1422244b0d6</sys_scope>
+        <sys_update_name>sys_ui_module_324df25d1366f2005dc6b1422244b0f8</sys_update_name>
+        <sys_updated_by>dale.james</sys_updated_by>
+        <sys_updated_on>2017-05-04 23:39:07</sys_updated_on>
+        <table>x_snc_ted_talk</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

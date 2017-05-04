@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Talk" max_length="40" name="x_snc_ted_talk" type="collection">
+        <element display="true" label="Title" max_length="100" name="title" type="string"/>
+    </element>
+</database>
