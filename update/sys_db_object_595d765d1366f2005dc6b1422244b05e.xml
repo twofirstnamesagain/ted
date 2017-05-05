@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>dale.james</sys_created_by>
         <sys_created_on>2017-05-04 23:42:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>595d765d1366f2005dc6b1422244b05e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Speaker</sys_name>

@@ -52,17 +52,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>dale.james</sys_created_by>
         <sys_created_on>2017-05-04 23:42:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>000e7e5d1366f2005dc6b1422244b088</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5356c319c3223200a5ef98ad81d3ae97</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ted_speaker</sys_name>
         <sys_package display_value="TED" source="x_snc_ted">34fc3e1d1366f2005dc6b1422244b0d6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TED">34fc3e1d1366f2005dc6b1422244b0d6</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_ted_speaker_null</sys_update_name>
-        <sys_updated_by>dale.james</sys_updated_by>
-        <sys_updated_on>2017-05-04 23:42:12</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_ted_speaker_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-05-05 00:18:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

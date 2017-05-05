@@ -8,11 +8,12 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_ted.speaker_user</name>
+        <snbe>false</snbe>
         <suffix>speaker_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>dale.james</sys_created_by>
         <sys_created_on>2017-05-04 23:42:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3ffd3e5d1366f2005dc6b1422244b000</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ted.speaker_user</sys_name>

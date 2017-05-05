@@ -5,24 +5,24 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_snc_ted_talk</name>
+        <name>x_snc_ted_speaker</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>dale.james</sys_created_by>
-        <sys_created_on>2017-05-04 23:39:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>234d365d1366f2005dc6b1422244b047</sys_id>
+        <sys_created_on>2017-05-04 23:42:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5356c319c3223200a5ef98ad81d3aeac</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_ted_talk</sys_name>
+        <sys_name>x_snc_ted_speaker</sys_name>
         <sys_package display_value="TED" source="x_snc_ted">34fc3e1d1366f2005dc6b1422244b0d6</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TED">34fc3e1d1366f2005dc6b1422244b0d6</sys_scope>
-        <sys_update_name>ua_table_licensing_config_234d365d1366f2005dc6b1422244b047</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_5356c319c3223200a5ef98ad81d3aeac</sys_update_name>
         <sys_updated_by>dale.james</sys_updated_by>
-        <sys_updated_on>2017-05-04 23:39:09</sys_updated_on>
+        <sys_updated_on>2017-05-04 23:42:13</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
